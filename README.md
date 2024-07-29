@@ -5,6 +5,11 @@ The goal of this project is to detect and track players, referees, and footballs
 
 ![Screenshot](output_videos/screenshot.png)
 
+
+https://morioh.com/a/0e1c24b0e1b3/build-an-aiml-football-analysis-system-with-yolo-opencv-and-python
+
+
+
 ## Modules Used
 The following modules are used in this project:
 - YOLO: AI object detection model
